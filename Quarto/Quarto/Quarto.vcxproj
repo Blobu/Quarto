@@ -126,6 +126,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Board.cppm" />
     <ClCompile Include="Piece.cpp" />
     <ClCompile Include="Piece.cppm" />
     <ClCompile Include="main.cpp" />

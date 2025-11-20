@@ -130,6 +130,7 @@
     <ClCompile Include="Piece.cpp" />
     <ClCompile Include="Piece.cppm" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Board.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

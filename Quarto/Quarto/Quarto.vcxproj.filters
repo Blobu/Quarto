@@ -27,5 +27,14 @@
     <ClCompile Include="Board.cppm">
       <Filter>Header Files</Filter>
     </ClCompile>
+    <ClCompile Include="Board.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UnusedPieces.cppm">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UnusedPieces.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

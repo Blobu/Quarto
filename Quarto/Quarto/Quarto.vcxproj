@@ -131,6 +131,8 @@
     <ClCompile Include="Piece.cppm" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Board.cpp" />
+    <ClCompile Include="UnusedPieces.cpp" />
+    <ClCompile Include="UnusedPieces.cppm" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
